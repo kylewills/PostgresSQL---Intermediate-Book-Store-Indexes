@@ -1,4 +1,4 @@
-# PROJECT---Intermediate-Book-Store-Indexes
+# PostgresSQL---Intermediate-Book-Store-Indexes
 
 Advanced PostgreSQL
 
